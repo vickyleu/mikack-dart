@@ -2,3 +2,5 @@
 /.dart_tool/
 /.packages
 /api_test.native
+.idea/
+**.lock
